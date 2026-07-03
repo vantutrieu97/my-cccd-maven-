@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.12"
+      "version": "8.14"
     }
   },
   "variants": [
@@ -84,11 +84,11 @@
         {
           "name": "nfc_cccd_module-1.0.0.aar",
           "url": "nfc_cccd_module-1.0.0.aar",
-          "size": 7056793,
-          "sha512": "c3d72dbd27e3192484658c34d7f74ab55996d3b0b467d9a854659a3532cb061d8a0dcdd6c5074805cd75803763cf6144c9f5f69d181a433dd0538d77b45c5a39",
-          "sha256": "563efc2bf0239e2a17664dbce507c278d0662883a63b028c8e18d7d76553785a",
-          "sha1": "6cc449a9aa465789e062aa42a10b398669ffd2b1",
-          "md5": "eb14d535b043bad21a122ce39b5bf1a0"
+          "size": 7056800,
+          "sha512": "4456751581fb3f0f12f4e2c43c9fd955bae272b8950869f75f246f6ec95d2779a713cc5984d8085b7f9a2c8cc1c1bb5b0d51e0cf90ebea3877d04e6fe328cd83",
+          "sha256": "58f756b191230e3a5341289e2a8b342465f7be9a7c4024372aa18beda07f1485",
+          "sha1": "4da88536a7bef30af5c5388fc94542397e232ca8",
+          "md5": "eeeb80265e5a4e3225cc137ed9afadd9"
         }
       ]
     },
@@ -162,11 +162,11 @@
         {
           "name": "nfc_cccd_module-1.0.0.aar",
           "url": "nfc_cccd_module-1.0.0.aar",
-          "size": 7056793,
-          "sha512": "c3d72dbd27e3192484658c34d7f74ab55996d3b0b467d9a854659a3532cb061d8a0dcdd6c5074805cd75803763cf6144c9f5f69d181a433dd0538d77b45c5a39",
-          "sha256": "563efc2bf0239e2a17664dbce507c278d0662883a63b028c8e18d7d76553785a",
-          "sha1": "6cc449a9aa465789e062aa42a10b398669ffd2b1",
-          "md5": "eb14d535b043bad21a122ce39b5bf1a0"
+          "size": 7056800,
+          "sha512": "4456751581fb3f0f12f4e2c43c9fd955bae272b8950869f75f246f6ec95d2779a713cc5984d8085b7f9a2c8cc1c1bb5b0d51e0cf90ebea3877d04e6fe328cd83",
+          "sha256": "58f756b191230e3a5341289e2a8b342465f7be9a7c4024372aa18beda07f1485",
+          "sha1": "4da88536a7bef30af5c5388fc94542397e232ca8",
+          "md5": "eeeb80265e5a4e3225cc137ed9afadd9"
         }
       ]
     },

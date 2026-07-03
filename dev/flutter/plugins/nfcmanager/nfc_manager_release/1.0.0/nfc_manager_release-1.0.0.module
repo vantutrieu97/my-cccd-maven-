@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.12"
+      "version": "8.14"
     }
   },
   "variants": [
@@ -34,7 +34,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.1.0"
+            "requires": "2.2.20"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "nfc_manager_release-1.0.0.aar",
           "url": "nfc_manager_release-1.0.0.aar",
-          "size": 97114,
-          "sha512": "54410e09a46d1102c5b3a61b367613749ebce525aa00c5d6d80c69abcc258f9dde2ee096d9ea78988cbcfd3fcfaca9bd2dfd8e139ab6be904ec7e52378993e43",
-          "sha256": "5f030c8e53ed43bbc105d1e307f23a3d3fccfc4d5f9d194418206f3cc80decd7",
-          "sha1": "2ca36c7567f80c9629b7e52883c274fc0c04f9bb",
-          "md5": "524716278673628603b802831b32fc6b"
+          "size": 97162,
+          "sha512": "4c8366086192d37471461350def70ce461b65ede33116394314cd6dbddc0fb571cb56094e5d8b10e9924c3b04e47634532ca045f180f755cd2b6e1d5355ede17",
+          "sha256": "5dafebd3b04c602e451c80a15b2c0dc7288cd3a9b60ed8195e584b4b02711e79",
+          "sha1": "7f2c8dd42f5d5c425b7f982359efea08c5404d6d",
+          "md5": "dd16a0ec30a363cb465cb2c680567616"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.1.0"
+            "requires": "2.2.20"
           }
         }
       ],
@@ -78,11 +78,11 @@
         {
           "name": "nfc_manager_release-1.0.0.aar",
           "url": "nfc_manager_release-1.0.0.aar",
-          "size": 97114,
-          "sha512": "54410e09a46d1102c5b3a61b367613749ebce525aa00c5d6d80c69abcc258f9dde2ee096d9ea78988cbcfd3fcfaca9bd2dfd8e139ab6be904ec7e52378993e43",
-          "sha256": "5f030c8e53ed43bbc105d1e307f23a3d3fccfc4d5f9d194418206f3cc80decd7",
-          "sha1": "2ca36c7567f80c9629b7e52883c274fc0c04f9bb",
-          "md5": "524716278673628603b802831b32fc6b"
+          "size": 97162,
+          "sha512": "4c8366086192d37471461350def70ce461b65ede33116394314cd6dbddc0fb571cb56094e5d8b10e9924c3b04e47634532ca045f180f755cd2b6e1d5355ede17",
+          "sha256": "5dafebd3b04c602e451c80a15b2c0dc7288cd3a9b60ed8195e584b4b02711e79",
+          "sha1": "7f2c8dd42f5d5c425b7f982359efea08c5404d6d",
+          "md5": "dd16a0ec30a363cb465cb2c680567616"
         }
       ]
     },

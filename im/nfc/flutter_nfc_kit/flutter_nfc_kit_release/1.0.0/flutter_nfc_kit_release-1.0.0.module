@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.12"
+      "version": "8.14"
     }
   },
   "variants": [
@@ -34,7 +34,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.1.0"
+            "requires": "2.2.20"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "flutter_nfc_kit_release-1.0.0.aar",
           "url": "flutter_nfc_kit_release-1.0.0.aar",
-          "size": 31549,
-          "sha512": "4c10e096b7b0630ad65272d5fac5c03ff0b459e30b9453add16e4c79dfd03a2b51effa65e980066fdc773fd8d233a839a2d6cc1126a22c4c0b40f5adabf395a9",
-          "sha256": "862f2173792af01d9cd8686e8c044ff10d9f066dba3bf4ec51ab036b77c77ab2",
-          "sha1": "7b5a4466e87ac098515b352531433ee6c99f34ee",
-          "md5": "aa6ab0e926c6a56a8d9f5d126099ac82"
+          "size": 31464,
+          "sha512": "381d8b9853f96ee75364efa71f7340d6e666bb4e46df9fd98189d0fff1c583daa23850f33bc7eef520627c54058d97fe26251677641aa482ddfc57f72f7ddf1a",
+          "sha256": "ddc67df943c4ca45341531dda7764d7ae28e4249a4457feb420123c4207058e8",
+          "sha1": "43ac1b3497aa61949c4a8fdbc55cc2d1f7cce4af",
+          "md5": "e21fedceb51508469b1e2b16f68f228c"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.1.0"
+            "requires": "2.2.20"
           }
         }
       ],
@@ -78,11 +78,11 @@
         {
           "name": "flutter_nfc_kit_release-1.0.0.aar",
           "url": "flutter_nfc_kit_release-1.0.0.aar",
-          "size": 31549,
-          "sha512": "4c10e096b7b0630ad65272d5fac5c03ff0b459e30b9453add16e4c79dfd03a2b51effa65e980066fdc773fd8d233a839a2d6cc1126a22c4c0b40f5adabf395a9",
-          "sha256": "862f2173792af01d9cd8686e8c044ff10d9f066dba3bf4ec51ab036b77c77ab2",
-          "sha1": "7b5a4466e87ac098515b352531433ee6c99f34ee",
-          "md5": "aa6ab0e926c6a56a8d9f5d126099ac82"
+          "size": 31464,
+          "sha512": "381d8b9853f96ee75364efa71f7340d6e666bb4e46df9fd98189d0fff1c583daa23850f33bc7eef520627c54058d97fe26251677641aa482ddfc57f72f7ddf1a",
+          "sha256": "ddc67df943c4ca45341531dda7764d7ae28e4249a4457feb420123c4207058e8",
+          "sha1": "43ac1b3497aa61949c4a8fdbc55cc2d1f7cce4af",
+          "md5": "e21fedceb51508469b1e2b16f68f228c"
         }
       ]
     },

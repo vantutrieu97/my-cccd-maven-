@@ -1,0 +1,214 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.example.my_cccd_module",
+    "module": "nfc_cccd_module",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "armeabi_v7a_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "arm64_v8a_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "x86_64_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "com.octmon.flutter_des",
+          "module": "flutter_des_release",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "im.nfc.flutter_nfc_kit",
+          "module": "flutter_nfc_kit_release",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "dev.flutter.plugins.nfcmanager",
+          "module": "nfc_manager_release",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nfc_cccd_module-1.0.0.aar",
+          "url": "nfc_cccd_module-1.0.0.aar",
+          "size": 7056793,
+          "sha512": "c3d72dbd27e3192484658c34d7f74ab55996d3b0b467d9a854659a3532cb061d8a0dcdd6c5074805cd75803763cf6144c9f5f69d181a433dd0538d77b45c5a39",
+          "sha256": "563efc2bf0239e2a17664dbce507c278d0662883a63b028c8e18d7d76553785a",
+          "sha1": "6cc449a9aa465789e062aa42a10b398669ffd2b1",
+          "md5": "eb14d535b043bad21a122ce39b5bf1a0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "armeabi_v7a_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "arm64_v8a_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "x86_64_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "com.octmon.flutter_des",
+          "module": "flutter_des_release",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "im.nfc.flutter_nfc_kit",
+          "module": "flutter_nfc_kit_release",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "dev.flutter.plugins.nfcmanager",
+          "module": "nfc_manager_release",
+          "version": {
+            "requires": "1.0.0"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.pathprovider",
+          "module": "path_provider_android_release",
+          "version": {
+            "requires": "1.0.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nfc_cccd_module-1.0.0.aar",
+          "url": "nfc_cccd_module-1.0.0.aar",
+          "size": 7056793,
+          "sha512": "c3d72dbd27e3192484658c34d7f74ab55996d3b0b467d9a854659a3532cb061d8a0dcdd6c5074805cd75803763cf6144c9f5f69d181a433dd0538d77b45c5a39",
+          "sha256": "563efc2bf0239e2a17664dbce507c278d0662883a63b028c8e18d7d76553785a",
+          "sha1": "6cc449a9aa465789e062aa42a10b398669ffd2b1",
+          "md5": "eb14d535b043bad21a122ce39b5bf1a0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nfc_cccd_module-1.0.0-sources.jar",
+          "url": "nfc_cccd_module-1.0.0-sources.jar",
+          "size": 1200,
+          "sha512": "ce3e8037f39e3636dc2a473850ce0bec0bbf9edd832aa165e7f90a10f349ee6aed50223fd3d4e41713679558ac8955c1ac8acb1c6cee69daa0519518e14a59f1",
+          "sha256": "ecf97e0640b613dcbb586c220d407480537c2e5f90a7a40cf68eda8789a62346",
+          "sha1": "658b77e65ac069346bdebeceacc91dd6af17c31e",
+          "md5": "65e123711cc248126cf972d911f797b8"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nfc_cccd_module-1.0.0-javadoc.jar",
+          "url": "nfc_cccd_module-1.0.0-javadoc.jar",
+          "size": 261619,
+          "sha512": "e542c6b74ecb90fca52180554ed54d72c43c95b50710a5f8fc72ec70b98e08bee88465be27139ee27a80ab427bbd3937f6b2ef5e9682dd93808d5cdf94434008",
+          "sha256": "7e5a81afe78872d67e9d851d6ac5c65c83505ac2a6998bd5f0251c3d9442b23c",
+          "sha1": "de0fa6f235f008125853761ae60bdd2499d2dea3",
+          "md5": "9fee58e0c7cd6574cb89a5e2ef6bf1c5"
+        }
+      ]
+    }
+  ]
+}

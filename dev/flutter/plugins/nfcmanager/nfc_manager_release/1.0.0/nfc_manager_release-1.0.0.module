@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.flutter.plugins.nfcmanager",
+    "module": "nfc_manager_release",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nfc_manager_release-1.0.0.aar",
+          "url": "nfc_manager_release-1.0.0.aar",
+          "size": 97114,
+          "sha512": "54410e09a46d1102c5b3a61b367613749ebce525aa00c5d6d80c69abcc258f9dde2ee096d9ea78988cbcfd3fcfaca9bd2dfd8e139ab6be904ec7e52378993e43",
+          "sha256": "5f030c8e53ed43bbc105d1e307f23a3d3fccfc4d5f9d194418206f3cc80decd7",
+          "sha1": "2ca36c7567f80c9629b7e52883c274fc0c04f9bb",
+          "md5": "524716278673628603b802831b32fc6b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "nfc_manager_release-1.0.0.aar",
+          "url": "nfc_manager_release-1.0.0.aar",
+          "size": 97114,
+          "sha512": "54410e09a46d1102c5b3a61b367613749ebce525aa00c5d6d80c69abcc258f9dde2ee096d9ea78988cbcfd3fcfaca9bd2dfd8e139ab6be904ec7e52378993e43",
+          "sha256": "5f030c8e53ed43bbc105d1e307f23a3d3fccfc4d5f9d194418206f3cc80decd7",
+          "sha1": "2ca36c7567f80c9629b7e52883c274fc0c04f9bb",
+          "md5": "524716278673628603b802831b32fc6b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nfc_manager_release-1.0.0-sources.jar",
+          "url": "nfc_manager_release-1.0.0-sources.jar",
+          "size": 9778,
+          "sha512": "39a2f3ee2aa3d9cd603538d9c7c335a5b052b27eb19d5a9eba206b686c6cdb2730b19b168a499cd06ed40e4b30821474851779e822bf3e9298ef3ba624877844",
+          "sha256": "b56d36b34b7a5f9b5395b31a721451d54a82bbae500323355bc8419e21082939",
+          "sha1": "482343464b95d4d964aaa5ccfbd550cca4ce8783",
+          "md5": "04f583ea11e2643bccab06f24e005bbf"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "nfc_manager_release-1.0.0-javadoc.jar",
+          "url": "nfc_manager_release-1.0.0-javadoc.jar",
+          "size": 434316,
+          "sha512": "90843f9c635538101a900b7aeb8581a15d031723ff951b2558ecc0dd8d0fa1feeb66962c9e21808a7155bde302798ccc969935d99b66c65fe1774cd4a2fdba95",
+          "sha256": "6f20d699397bd570883e571bfa3ee8c0572ee92a50b7c3c580652a9696b40871",
+          "sha1": "1a3282df01be30635e794d372b07c09de048d62d",
+          "md5": "439ede60c3ca625f4845fc1bf89c750d"
+        }
+      ]
+    }
+  ]
+}

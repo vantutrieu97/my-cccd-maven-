@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.octmon.flutter_des",
+    "module": "flutter_des_release",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_des_release-1.0.0.aar",
+          "url": "flutter_des_release-1.0.0.aar",
+          "size": 3718,
+          "sha512": "b08b2585e7b514957c3d19aeb59f99e965a782023c5098ef7a1fda8ad3816d86c0661443d2ce6d1e6940cc63f6e406475c11a3757f61d5a29c8a0ea53c14a76b",
+          "sha256": "d08be02cbbce86e7c944d4b47274d3960e349769360a34b41f526066e76f7c1f",
+          "sha1": "e49534617ea9d4bc453fade6c350656ea74d9d49",
+          "md5": "85b4e0e2eb83d9e7635fde03c5c97214"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_des_release-1.0.0.aar",
+          "url": "flutter_des_release-1.0.0.aar",
+          "size": 3718,
+          "sha512": "b08b2585e7b514957c3d19aeb59f99e965a782023c5098ef7a1fda8ad3816d86c0661443d2ce6d1e6940cc63f6e406475c11a3757f61d5a29c8a0ea53c14a76b",
+          "sha256": "d08be02cbbce86e7c944d4b47274d3960e349769360a34b41f526066e76f7c1f",
+          "sha1": "e49534617ea9d4bc453fade6c350656ea74d9d49",
+          "md5": "85b4e0e2eb83d9e7635fde03c5c97214"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_des_release-1.0.0-sources.jar",
+          "url": "flutter_des_release-1.0.0-sources.jar",
+          "size": 2337,
+          "sha512": "281ae864a8e16b22fb9991c919117183af8c3f35b8cb4f561ade90931a09b8be51fc2357d2acd1111f03f9ca836581395d3ce128b97751fe3e37f7a82aaa20b7",
+          "sha256": "9d477921785e558fffa19009c27cb9d079029e2415958b0e1d993df20ae3ce58",
+          "sha1": "0fa95f0e0676da3fd173372e38097278cf6ff97b",
+          "md5": "3294a0540b932c47f9789117b4dec4d5"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_des_release-1.0.0-javadoc.jar",
+          "url": "flutter_des_release-1.0.0-javadoc.jar",
+          "size": 262059,
+          "sha512": "5958340fa91e2d97520c36ebcd45fa3852b398f46323b4844541976f32f873c8f17181c010cc17a2c24bff541c9860108930ba56dba3f63dc5a81fb278d428e8",
+          "sha256": "db1b723bfe5f8fc1ca4fc942f0ebe2313c36ab2e5edb6f52fb6bd341496d9df3",
+          "sha1": "4300c1942b123cea9df1376ba8f077b079efac1d",
+          "md5": "fa6cdbf705727219b462cc8bfc4bdc4f"
+        }
+      ]
+    }
+  ]
+}

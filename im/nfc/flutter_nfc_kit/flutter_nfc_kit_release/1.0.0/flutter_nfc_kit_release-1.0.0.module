@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "9.1.0"
     }
   },
   "variants": [
@@ -27,14 +27,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20"
+            "requires": "2.3.20"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "flutter_nfc_kit_release-1.0.0.aar",
           "url": "flutter_nfc_kit_release-1.0.0.aar",
-          "size": 31464,
-          "sha512": "381d8b9853f96ee75364efa71f7340d6e666bb4e46df9fd98189d0fff1c583daa23850f33bc7eef520627c54058d97fe26251677641aa482ddfc57f72f7ddf1a",
-          "sha256": "ddc67df943c4ca45341531dda7764d7ae28e4249a4457feb420123c4207058e8",
-          "sha1": "43ac1b3497aa61949c4a8fdbc55cc2d1f7cce4af",
-          "md5": "e21fedceb51508469b1e2b16f68f228c"
+          "size": 31531,
+          "sha512": "39d948dfbfe0427c8a59088f3f98c3cc3e8b16be7d7ff029c04279cce8cf7c9f7511331d91f5e3178b42d3c24e06d2862418be95ad9d6e60a12956d2765a9142",
+          "sha256": "005fa7c87251191df6076c9da0e5cfa02652397d6b64f1a4a2fae45711d553ef",
+          "sha1": "15ffb77893dd3860ccf9c2f26533cc72bf074adb",
+          "md5": "417929927b31966f0b7aecb0c61fd8ac"
         }
       ]
     },
@@ -63,14 +63,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20"
+            "requires": "2.3.20"
           }
         }
       ],
@@ -78,11 +78,11 @@
         {
           "name": "flutter_nfc_kit_release-1.0.0.aar",
           "url": "flutter_nfc_kit_release-1.0.0.aar",
-          "size": 31464,
-          "sha512": "381d8b9853f96ee75364efa71f7340d6e666bb4e46df9fd98189d0fff1c583daa23850f33bc7eef520627c54058d97fe26251677641aa482ddfc57f72f7ddf1a",
-          "sha256": "ddc67df943c4ca45341531dda7764d7ae28e4249a4457feb420123c4207058e8",
-          "sha1": "43ac1b3497aa61949c4a8fdbc55cc2d1f7cce4af",
-          "md5": "e21fedceb51508469b1e2b16f68f228c"
+          "size": 31531,
+          "sha512": "39d948dfbfe0427c8a59088f3f98c3cc3e8b16be7d7ff029c04279cce8cf7c9f7511331d91f5e3178b42d3c24e06d2862418be95ad9d6e60a12956d2765a9142",
+          "sha256": "005fa7c87251191df6076c9da0e5cfa02652397d6b64f1a4a2fae45711d553ef",
+          "sha1": "15ffb77893dd3860ccf9c2f26533cc72bf074adb",
+          "md5": "417929927b31966f0b7aecb0c61fd8ac"
         }
       ]
     },

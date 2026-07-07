@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "9.1.0"
     }
   },
   "variants": [
@@ -27,28 +27,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
@@ -84,11 +84,11 @@
         {
           "name": "nfc_cccd_module-1.0.0.aar",
           "url": "nfc_cccd_module-1.0.0.aar",
-          "size": 7062441,
-          "sha512": "efdd942f40a9ae15571c418d84b55ef30521d386919f1095c55e3c39aedba7f06343662122c1d4170f86abf711324c883b68fda8d56e96a413a2cafa325da316",
-          "sha256": "ab21246732371e061b5525e0e0a18045cd9a8779894e0b383047236d7df958fe",
-          "sha1": "ae1b84c58b63002813bc7593729a8d4a233be321",
-          "md5": "a4e5f37cabe147da3c9f7acdec266488"
+          "size": 7150737,
+          "sha512": "bfe68218824eef1c46b59f0101e5e7b368e351b79ea050b6fb52bc028e84d4b5ad1b3474b04e00a2a62dcbef6649f265c45d62cb44a9c19a46e936e6fa30ab37",
+          "sha256": "35ec31cac510ed8a1a51f1eeec84632bbcfe29e42b0b2ebdc0df6569264d675b",
+          "sha1": "8343d3338cca20fae29f2d6dcf5cfa960a9ef73b",
+          "md5": "ddbd530a657620333095d232c5e474c7"
         }
       ]
     },
@@ -105,28 +105,28 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
           "group": "io.flutter",
           "module": "armeabi_v7a_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
           "group": "io.flutter",
           "module": "arm64_v8a_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
           "group": "io.flutter",
           "module": "x86_64_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
           }
         },
         {
@@ -162,11 +162,11 @@
         {
           "name": "nfc_cccd_module-1.0.0.aar",
           "url": "nfc_cccd_module-1.0.0.aar",
-          "size": 7062441,
-          "sha512": "efdd942f40a9ae15571c418d84b55ef30521d386919f1095c55e3c39aedba7f06343662122c1d4170f86abf711324c883b68fda8d56e96a413a2cafa325da316",
-          "sha256": "ab21246732371e061b5525e0e0a18045cd9a8779894e0b383047236d7df958fe",
-          "sha1": "ae1b84c58b63002813bc7593729a8d4a233be321",
-          "md5": "a4e5f37cabe147da3c9f7acdec266488"
+          "size": 7150737,
+          "sha512": "bfe68218824eef1c46b59f0101e5e7b368e351b79ea050b6fb52bc028e84d4b5ad1b3474b04e00a2a62dcbef6649f265c45d62cb44a9c19a46e936e6fa30ab37",
+          "sha256": "35ec31cac510ed8a1a51f1eeec84632bbcfe29e42b0b2ebdc0df6569264d675b",
+          "sha1": "8343d3338cca20fae29f2d6dcf5cfa960a9ef73b",
+          "md5": "ddbd530a657620333095d232c5e474c7"
         }
       ]
     },

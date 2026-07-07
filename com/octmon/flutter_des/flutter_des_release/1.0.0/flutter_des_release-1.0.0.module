@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "9.1.0"
     }
   },
   "variants": [
@@ -27,7 +27,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.20"
           }
         }
       ],
@@ -35,11 +42,11 @@
         {
           "name": "flutter_des_release-1.0.0.aar",
           "url": "flutter_des_release-1.0.0.aar",
-          "size": 3718,
-          "sha512": "b08b2585e7b514957c3d19aeb59f99e965a782023c5098ef7a1fda8ad3816d86c0661443d2ce6d1e6940cc63f6e406475c11a3757f61d5a29c8a0ea53c14a76b",
-          "sha256": "d08be02cbbce86e7c944d4b47274d3960e349769360a34b41f526066e76f7c1f",
-          "sha1": "e49534617ea9d4bc453fade6c350656ea74d9d49",
-          "md5": "85b4e0e2eb83d9e7635fde03c5c97214"
+          "size": 3719,
+          "sha512": "d9f0d24001de7f589ba422ca8c0d8e769e4f786e14674e1c490227bcd4eec96b72ceee1745d67b515fd740863c774600b7676f79f86a8015684c2b3abe542dee",
+          "sha256": "609b31508523b9a2dc8c08051b10c452598176e1ef138d58591b0797670ebee0",
+          "sha1": "76886cdc6d1d1ac8ef96463d798ed3683aee89f7",
+          "md5": "faa4414a674a3cf07bad0a68156564f1"
         }
       ]
     },
@@ -56,7 +63,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb"
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.20"
           }
         }
       ],
@@ -64,11 +78,11 @@
         {
           "name": "flutter_des_release-1.0.0.aar",
           "url": "flutter_des_release-1.0.0.aar",
-          "size": 3718,
-          "sha512": "b08b2585e7b514957c3d19aeb59f99e965a782023c5098ef7a1fda8ad3816d86c0661443d2ce6d1e6940cc63f6e406475c11a3757f61d5a29c8a0ea53c14a76b",
-          "sha256": "d08be02cbbce86e7c944d4b47274d3960e349769360a34b41f526066e76f7c1f",
-          "sha1": "e49534617ea9d4bc453fade6c350656ea74d9d49",
-          "md5": "85b4e0e2eb83d9e7635fde03c5c97214"
+          "size": 3719,
+          "sha512": "d9f0d24001de7f589ba422ca8c0d8e769e4f786e14674e1c490227bcd4eec96b72ceee1745d67b515fd740863c774600b7676f79f86a8015684c2b3abe542dee",
+          "sha256": "609b31508523b9a2dc8c08051b10c452598176e1ef138d58591b0797670ebee0",
+          "sha1": "76886cdc6d1d1ac8ef96463d798ed3683aee89f7",
+          "md5": "faa4414a674a3cf07bad0a68156564f1"
         }
       ]
     },

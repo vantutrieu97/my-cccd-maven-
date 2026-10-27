@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "im.nfc.flutter_nfc_kit",
+    "module": "flutter_nfc_kit_release",
+    "version": "2.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.1.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_nfc_kit_release-2.0.1.aar",
+          "url": "flutter_nfc_kit_release-2.0.1.aar",
+          "size": 31531,
+          "sha512": "39d948dfbfe0427c8a59088f3f98c3cc3e8b16be7d7ff029c04279cce8cf7c9f7511331d91f5e3178b42d3c24e06d2862418be95ad9d6e60a12956d2765a9142",
+          "sha256": "005fa7c87251191df6076c9da0e5cfa02652397d6b64f1a4a2fae45711d553ef",
+          "sha1": "15ffb77893dd3860ccf9c2f26533cc72bf074adb",
+          "md5": "417929927b31966f0b7aecb0c61fd8ac"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-a10d8ac38de835021c8d2f920dbf50a920ccc030"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.3.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_nfc_kit_release-2.0.1.aar",
+          "url": "flutter_nfc_kit_release-2.0.1.aar",
+          "size": 31531,
+          "sha512": "39d948dfbfe0427c8a59088f3f98c3cc3e8b16be7d7ff029c04279cce8cf7c9f7511331d91f5e3178b42d3c24e06d2862418be95ad9d6e60a12956d2765a9142",
+          "sha256": "005fa7c87251191df6076c9da0e5cfa02652397d6b64f1a4a2fae45711d553ef",
+          "sha1": "15ffb77893dd3860ccf9c2f26533cc72bf074adb",
+          "md5": "417929927b31966f0b7aecb0c61fd8ac"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_nfc_kit_release-2.0.1-sources.jar",
+          "url": "flutter_nfc_kit_release-2.0.1-sources.jar",
+          "size": 8003,
+          "sha512": "bba50435c4b3a2fa281b3b379a3a93f45d24871cd4407ca21e505bb09d053910afefb1aaff6828bc300cdedff7fc9bba56664290b382d65d4aae7c73b5ab8cc8",
+          "sha256": "00d81fefbd3919a2c09c32fa141afdb2f7fc0a95bf3548d953a8e456e0e7fd0c",
+          "sha1": "9662846c10153acb3ce9f7d0a5c1e1ecd3f5e12c",
+          "md5": "dbb383583ee3db9c483499c98ba89027"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_nfc_kit_release-2.0.1-javadoc.jar",
+          "url": "flutter_nfc_kit_release-2.0.1-javadoc.jar",
+          "size": 291837,
+          "sha512": "45e44b49bdcbfa60c4ab97c35a3ae26a8db465a4e9053b168060c48db052107a8632cc6841a16f2b3b3bb70c780dd05372a9fe486afbf691dcdc28f81881fb4c",
+          "sha256": "d1a55a109afa69f8f9cfad76675e0454a5584f2cbd8f9c1b8841b7e8f34875a7",
+          "sha1": "9459b47e66eda922c7961feb9d6dd54f6ed6bfd1",
+          "md5": "a81927292f1acd1d2f035eec0c40b42c"
+        }
+      ]
+    }
+  ]
+}
